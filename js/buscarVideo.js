@@ -1,4 +1,4 @@
-import { conectaApi } from "./conectaApi.js";
+import { conectaApi } from "./conectaAPI.js";
 import constroiCard from "./mostrarVideos.js";
 
 async function buscarVideo(evento) {
